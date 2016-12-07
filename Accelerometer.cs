@@ -1,3 +1,4 @@
+//I used this to move my player by tilting my Android device.
 using UnityEngine;
 using System.Collections;
 
